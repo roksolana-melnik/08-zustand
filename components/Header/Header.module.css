@@ -11,11 +11,11 @@
   text-decoration: none;
   color: white;
   font-size: 1.5rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .headerLink:hover {
-  color: #ddd;
+  color: #555;
 }
 
 .navigation {
@@ -38,5 +38,5 @@
 }
 
 .navigationLink:hover {
-  color: #ddd;
+  color: #555;
 }
